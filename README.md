@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**Calzado Store** es una página web que ofrece una tienda de calzado con diferentes secciones: inicio, productos, reseñas y contacto. Fue desarrollada como parte de una práctica para aprender HTML y CSS en una formaciion otorgada desde Talento Tech.
+**Calzado Stored** es una página web que ofrece una tienda de calzado con diferentes secciones: inicio, productos, reseñas y contacto. Fue desarrollada como parte de una práctica para aprender HTML y CSS en una formaciion otorgada desde Talento Tech.
 
 ---
 
