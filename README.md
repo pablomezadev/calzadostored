@@ -26,4 +26,4 @@
 ---
 ## Desde github Pages:
 
-https://calzadostored.github.io/index.html
+https://pablomezadev.github.io/calzadostored/
